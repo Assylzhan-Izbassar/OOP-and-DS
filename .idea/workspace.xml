@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="08b2c740-a183-428c-9cbe-d5b4f8857274" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/g3/l11/MaxHeap.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/g3/l11/Student.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/g3/l11/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="08b2c740-a183-428c-9cbe-d5b4f8857274" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -150,7 +145,7 @@
       <workItem from="1743395131210" duration="5456000" />
       <workItem from="1743487902363" duration="2920000" />
       <workItem from="1743505125850" duration="4290000" />
-      <workItem from="1743512279765" duration="2854000" />
+      <workItem from="1743512279765" duration="2967000" />
     </task>
     <servers />
   </component>
